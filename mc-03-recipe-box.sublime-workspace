@@ -4,529 +4,105 @@
 		"selected_items":
 		[
 			[
-				"lo",
-				"lockable"
+				"link",
+				"link_to"
 			],
 			[
-				"merchant",
-				"merchants"
+				"grap",
+				"graphdata2_1"
 			],
 			[
-				"email",
-				"emailhelper"
+				"gra",
+				"graphyear"
 			],
 			[
-				"hanlde",
-				"handleWPORequirement"
+				"emai",
+				"email_newsletter"
 			],
 			[
-				"act",
-				"actions_list"
+				"blog",
+				"blog_id"
 			],
 			[
-				"pending",
-				"pending_type_id"
-			],
-			[
-				"allo",
-				"allow_cart_changes"
-			],
-			[
-				"cart",
-				"cart_items"
-			],
-			[
-				"remove_",
-				"remove_cart_item"
-			],
-			[
-				"micr",
-				"microsite_id"
-			],
-			[
-				"t",
-				"temp_isbn"
-			],
-			[
-				"redirect",
-				"redirect_status"
-			],
-			[
-				"payment",
-				"payment_type_default"
-			],
-			[
-				"channel",
-				"channel_options"
-			],
-			[
-				"req",
-				"request_api_method"
-			],
-			[
-				"transaction",
-				"transaction"
-			],
-			[
-				"pa",
-				"payment"
-			],
-			[
-				"tr",
-				"transaction_id2"
-			],
-			[
-				"pre",
-				"preventDefault"
-			],
-			[
-				"ga",
-				"gateway"
-			],
-			[
-				"post",
-				"post_data"
-			],
-			[
-				"gatewa",
-				"allowed_gateways"
-			],
-			[
-				"order",
-				"order_data"
-			],
-			[
-				"product",
-				"product_table"
-			],
-			[
-				"check",
-				"check_order_number"
-			],
-			[
-				"cell",
-				"cellspacing	Attr"
-			],
-			[
-				"main",
-				"main_image"
-			],
-			[
-				"zip",
-				"zipfile"
-			],
-			[
-				"rc",
-				"rcp_control_no"
-			],
-			[
-				"bt",
-				"btnNum"
-			],
-			[
-				"mass",
-				"mass_insert_statement"
-			],
-			[
-				"inser",
-				"insert_sku_ids"
+				"clear",
+				"clearcont"
 			],
 			[
 				"fil",
-				"filtered"
-			],
-			[
-				"tta",
-				"total_rows"
-			],
-			[
-				"remo",
-				"removeItem"
-			],
-			[
-				"insert",
-				"insert_product"
-			],
-			[
-				"account",
-				"account_discount"
-			],
-			[
-				"before",
-				"before_date"
-			],
-			[
-				"date_",
-				"date_parsed"
-			],
-			[
-				"ipl",
-				"iplabs_key"
-			],
-			[
-				"if",
-				"if	if"
-			],
-			[
-				"raff",
-				"raffles"
-			],
-			[
-				"tra",
-				"transactions_po"
-			],
-			[
-				"remove",
-				"removeFromPO"
-			],
-			[
-				"sku_",
-				"sku_code"
-			],
-			[
-				"is_of",
-				"is_offset_sql"
-			],
-			[
-				"off",
-				"offset_type_id"
-			],
-			[
-				"inven",
-				"inventory_type_id"
-			],
-			[
-				"tran",
-				"transaction_id"
-			],
-			[
-				"crea",
-				"createLoader"
-			],
-			[
-				"create",
-				"create-po-loader"
-			],
-			[
-				"availa",
-				"available_merchants"
-			],
-			[
-				"from_n",
-				"from_name"
-			],
-			[
-				"from",
-				"from_email"
-			],
-			[
-				"or",
-				"order_data"
-			],
-			[
-				"query",
-				"query_limit"
-			],
-			[
-				"array_",
-				"array_merge"
-			],
-			[
-				"array_c",
-				"array_combine"
-			],
-			[
-				"add",
-				"add_points"
-			],
-			[
-				"error",
-				"error_counter"
-			],
-			[
-				"add_",
-				"add_to_catalogue"
-			],
-			[
-				"statu",
-				"status_array"
-			],
-			[
-				"AP",
-				"API_URL"
-			],
-			[
-				"current",
-				"current_setup"
-			],
-			[
-				"produc",
-				"product_code"
-			],
-			[
-				"vi",
-				"vipinoy_points"
+				"fileRef"
 			],
 			[
 				"pro",
-				"prod"
+				"projectRef"
 			],
 			[
-				"with",
-				"withInput"
+				"rem",
+				"remaining_seconds"
 			],
 			[
-				"raffle",
-				"raffle_id"
+				"movie",
+				"movie_id"
 			],
 			[
-				"point",
-				"point_entries"
+				"cus",
+				"customData"
 			],
 			[
-				"conve",
-				"convertArray"
+				"filter",
+				"filter_arr"
 			],
 			[
-				"max",
-				"max_entries"
+				"gener",
+				"generate_ticket_code"
 			],
 			[
-				"return",
-				"returnMaxEntries"
+				"tic",
+				"ticket_code"
 			],
 			[
-				"conf",
-				"config_charge"
+				"valid",
+				"valid_chars"
 			],
 			[
-				"referen",
-				"referene_number"
+				"vali",
+				"valid_chars"
 			],
 			[
-				"refe",
-				"reference_number"
+				"stop",
+				"stopwords"
 			],
 			[
-				"respons",
-				"response"
+				"label",
+				"labelValue"
 			],
 			[
-				"chan",
-				"channel_api"
+				"try",
+				"try	Try/Except"
 			],
 			[
-				"trans",
-				"transfer_price"
+				"co",
+				"__cost"
 			],
 			[
-				"details",
-				"details_mode"
+				"s",
+				"slamDoors"
 			],
 			[
-				"transac",
-				"transaction_number"
+				"pri",
+				"price"
 			],
 			[
-				"special",
-				"special_message"
+				"ife",
+				"ife	codeigniter-ifelse"
 			],
 			[
-				"transa",
-				"transaction_module"
-			],
-			[
-				"transactions_",
-				"transactions_cart"
-			],
-			[
-				"response",
-				"response_body"
-			],
-			[
-				"file",
-				"filename"
-			],
-			[
-				"variant",
-				"variant_count"
-			],
-			[
-				"vv",
-				"vv_id"
-			],
-			[
-				"vc",
-				"vc_id"
-			],
-			[
-				"sku",
-				"sku_code"
-			],
-			[
-				"def",
-				"default"
-			],
-			[
-				"op",
-				"opts"
-			],
-			[
-				"stock",
-				"stock_status"
-			],
-			[
-				"packa",
-				"package_id"
-			],
-			[
-				"prod",
-				"product_id"
-			],
-			[
-				"package",
-				"package_deals"
-			],
-			[
-				"is",
-				"is_package"
-			],
-			[
-				"regula",
-				"regular_value"
-			],
-			[
-				"regu",
-				"regular_key"
-			],
-			[
-				"count",
-				"sku_count"
-			],
-			[
-				"sc_",
-				"sc_inventory"
-			],
-			[
-				"Desk",
-				"DesktopNotification"
-			],
-			[
-				"c",
-				"checkNotificationSupport"
-			],
-			[
-				"no",
-				"notifications"
-			],
-			[
-				"merchant_pro",
-				"merchant_products"
-			],
-			[
-				"mod",
-				"modData"
-			],
-			[
-				"res",
-				"result"
-			],
-			[
-				"pull",
-				"pullout_request"
-			],
-			[
-				"po",
-				"po_id"
-			],
-			[
-				"inventory",
-				"inventory_type_id"
-			],
-			[
-				"new",
-				"new_po"
-			],
-			[
-				"purchas",
-				"purchase_cost"
-			],
-			[
-				"terms",
-				"terms_id"
-			],
-			[
-				"requ",
-				"required_options"
-			],
-			[
-				"sc_product_",
-				"sc_product_code"
-			],
-			[
-				"invent",
-				"inventory_count"
-			],
-			[
-				"transa_",
-				"transaction_id"
-			],
-			[
-				"in",
-				"increase_by"
-			],
-			[
-				"points",
-				"points_id"
-			],
-			[
-				"remaining",
-				"remaining_quantity"
-			],
-			[
-				"microsite_",
-				"microsite_reference_code"
-			],
-			[
-				"cha",
-				"channel_data"
-			],
-			[
-				"api",
-				"api_status"
-			],
-			[
-				"http_auth",
-				"http_auth_password"
-			],
-			[
-				"http_a",
-				"http_auth_username"
-			],
-			[
-				"all",
-				"allowed_channels"
-			],
-			[
-				"inline",
-				"inline-block"
-			],
-			[
-				"load",
-				"load_price"
+				"echo",
+				"ncurses_echo"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/Users/Lance Vincent/Google Drive/_Logins.txt",
-			"settings":
-			{
-				"buffer_size": 9986,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -535,76 +111,139 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "synphp",
+		"height": 127.0,
+		"last_filter": "syncss",
 		"selected_items":
 		[
 			[
-				"synphp",
-				"Set Syntax: PHP"
+				"syncss",
+				"Set Syntax: CSS"
 			],
 			[
-				"synhtml",
-				"Set Syntax: HTML"
-			],
-			[
-				"PHP Code Sniffer: ",
-				"PHP Code Sniffer: Sniff this file"
+				"css",
+				"Set Syntax: CSS"
 			],
 			[
 				"pacins",
 				"Package Control: Install Package"
 			],
 			[
-				"Package Control: ",
-				"Package Control: List Packages"
-			],
-			[
-				"synjava",
-				"Set Syntax: Java"
-			],
-			[
-				"Snippet: ",
-				"Snippet: log"
+				"synphp",
+				"Set Syntax: PHP"
 			],
 			[
 				"synhtm",
 				"Set Syntax: HTML"
 			],
 			[
-				"pacls",
-				"Package Control: List Packages"
+				"synhtml",
+				"Set Syntax: HTML"
 			],
 			[
-				"pack",
-				"Package Control: List Packages"
+				"Package Control: pac",
+				"Package Control: Install Package"
 			],
 			[
-				"pacrev",
+				"project",
+				"Project: Save As"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"Package Control: ",
 				"Package Control: Remove Package"
 			],
 			[
-				"auth",
-				"Snippet: Auth-attempt"
+				"query",
+				"Snippet: jQuery Animate"
 			],
 			[
-				"synbla",
-				"Set Syntax: PHP - Laravel Blade"
+				"cises",
+				"Snippet: CI - Session - Retrieving Session Data"
+			],
+			[
+				"helper",
+				"CI Codeintel Helper: Create IDE helper"
+			],
+			[
+				"ci",
+				"Snippet: CI - Generic Starter Class"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Snippet: ",
+				"Snippet: ifelse-codeigniter"
+			],
+			[
+				"snippet ife",
+				"Snippet: if … else …"
+			],
+			[
+				"snisw",
+				"Snippet: switch …"
+			],
+			[
+				"snippca",
+				"Snippet: case …"
+			],
+			[
+				"snipp",
+				"Snippet: case …"
+			],
+			[
+				"snip",
+				"Snippet: POST['…']"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"xiki",
+				"Create Xiki Buffer"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax j",
+				"Set Syntax: JavaScript"
 			]
 		],
 		"width": 528.0
 	},
 	"console":
 	{
-		"height": 191.0,
+		"height": 279.0,
 		"history":
 		[
-			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
-			"phpcs /d/xampp/htdocs/www.alveo.local/app/controllers/AccountController.php",
-			"phpcs /d/xampp/htdocs/www.alveo.local/app/controllers/",
-			"phpcs",
-			"phpcs ProductController.php",
-			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
 		]
 	},
 	"distraction_free":
@@ -618,276 +257,279 @@
 	},
 	"expanded_folders":
 	[
-		"/D/rails-dev-box/mckenzie-child/mc-03-recipe-box"
+		"/E/Ruby/mackenziechild/mc-02-blog",
+		"/E/Ruby/mackenziechild/mc-02-blog/config",
+		"/E/Ruby/mackenziechild/mc-02-blog/db",
+		"/E/Ruby/mackenziechild/mc-02-blog/db/migrate"
 	],
 	"file_history":
 	[
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/views/layouts/application.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/controllers/about_controller.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/views/about/index.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/config/routes.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/controllers/posts_controller.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/views/posts/new.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/views/posts/_form.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/views/posts/show.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/models/post.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/views/comments/_comment.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/views/comments/_form.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/controllers/comments_controller.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/views/posts/index.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/models/comment.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/db/migrate/20150802073435_create_comments.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/helpers/comments_helper.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/db/migrate/20150730104309_create_posts.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/db/development_recode.sqlite3",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/db/migrate/20150802071911_devise_create_users.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/Gemfile",
-		"/C/Users/Lance Vincent/Desktop/UCPB - July 28 Meeting/reucpbresendverificationemails/REWARDS POINTS JAN TO JUN 30 2015_AUG 6 UPLOADING B.csv",
-		"/C/Users/Lance Vincent/Desktop/exam.txt",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/views/posts/_new.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/db/migrate/20150730103526_create_post.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/db/migrate/20150730103712_create_posts.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/config/database.yml",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/app/controllers/post_controller.rb",
-		"/D/xampp/htdocs/test/test_jc.php",
-		"/D/rails-dev-box/mckenzie-child/mc-02-blog/Gemfile.lock",
-		"/C/Users/Lance Vincent/Desktop/bea.txt",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/models/comment.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/models/link.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/models/user.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/controllers/application_controller.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/assets/stylesheets/application.scss",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/controllers/links_controller.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/config/routes.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/views/links/index.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/views/links/show.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/Gemfile",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/views/layouts/application.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/views/links/_form.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/views/devise/registrations/edit.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/views/devise/registrations/new.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/views/devise/sessions/new.html.erb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/views/links/edit.html.erb",
-		"/C/Users/Lance Vincent/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-		"/C/Users/Lance Vincent/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/config/database.yml",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/app/assets/javascripts/application.js",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/config/environments/development.rb",
-		"/C/Users/Lance Vincent/AppData/Roaming/Sublime Text 3/Packages/User/Ruby/if.sublime-snippet",
-		"/C/Users/Lance Vincent/AppData/Roaming/Sublime Text 3/Packages/User/Ruby/class.sublime-snippet",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/db/migrate/20150715105223_devise_create_users.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/db/migrate/20150715104219_devise_create_installs.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/db/migrate/20150715103722_create_links.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/db/schema.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/db/migrate/20150715111515_add_user_id_to_links.rb",
-		"/C/Users/Lance Vincent/Desktop/index.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/db/migrate/20150715111233_add_user_id_on_links.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/db/migrate/20150715110816_add_user_id_on_links.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/test/models/link_test.rb",
-		"/D/rails-dev-box/mckenzie-child/mc-01-reddit-clone/db/development.sqlite3",
-		"/D/rails-dev-box/devise/test/support/integration.rb",
-		"/D/rails-dev-box/devise/test/failure_app_test.rb",
-		"/D/rails-dev-box/devise/test/integration/lockable_test.rb",
-		"/D/rails-dev-box/devise/test/integration/authenticatable_test.rb",
-		"/D/rails-dev-box/devise/app/controllers/devise/sessions_controller.rb",
-		"/D/rails-dev-box/devise/app/views/devise/shared/_links.html.erb",
-		"/D/rails-dev-box/devise/app/views/devise/sessions/new.html.erb",
-		"/D/rails-dev-box/devise/app/controllers/devise/registrations_controller.rb",
-		"/D/rails-dev-box/devise/app/controllers/devise_controller.rb",
-		"/C/Ruby22-x64/lib/ruby/gems/2.2.0/specifications/sqlite3-1.3.10-x64-mingw32.gemspec",
-		"/C/Ruby22-x64/lib/ruby/gems/2.2.0/specifications/nokogiri-1.6.6.2-x64-mingw32.gemspec",
-		"/C/Program Files (x86)/Git/etc/profile",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/controllers/auto_emails.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/models/emailhelper.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/views/_email_templates/auto_email_merchants.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/controllers/transactions.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/libraries/channel_api.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/models/transaction.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/views/transactions/edit.php",
-		"/D/Code/asolutions-supplychain/public_index.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/config/development/config.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/controllers/request_for_billing.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/core/MY_Controller.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/controllers/dashboard.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/controllers/categories.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/controllers/accounts.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/views/_email_templates/fullybooked_updated_cart.php",
-		"/D/xampp/htdocs/dtr.a-solutions.ph/admin/index.php",
-		"/D/xampp/htdocs/dtr.a-solutions.ph/connect.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/views/purchase_orders/index.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/logs/log-2015-07-06.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/views/transactions/index.php",
-		"/D/xampp/htdocs/www.ayalalandpremier.local/app/storage/logs/laravel-2015-07-02.log",
-		"/D/xampp/htdocs/www.ayalalandpremier.local/app/storage/logs/laravel-2015-06-08.log",
-		"/D/xampp/htdocs/asolutions-api/_webapps/logs/log-2015-06-30.php",
-		"/D/xampp/htdocs/asolutions-api/_webapps/config/channel_options.php",
-		"/D/xampp/htdocs/asolutions-api/_webapps/models/payment.php",
-		"/D/xampp/htdocs/asolutions-api/_webapps/controllers/securepay.php",
-		"/D/xampp/htdocs/asolutions-api/_webapps/models/supplychainhelper.php",
-		"/D/xampp/htdocs/asolutions-api/_webapps/config/production/config.php",
-		"/D/xampp/htdocs/asolutions-api/public_index.php",
-		"/D/xampp/htdocs/asolutions-api/_webapps/logs/log-2015-07-02.php",
-		"/D/xampp/htdocs/asolutions-api/_webapps/logs/log-2015-06-29.php",
-		"/D/xampp/htdocs/asolutions-api/_webapps/logs/log-2015-06-27.php",
-		"/D/xampp/htdocs/asolutions-api/_webapps/logs/log-2015-06-28.php",
-		"/D/xampp/htdocs/asolutions-api/_webapps/controllers/supplychain.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/views/merchants/sku_list.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/logs/log-2015-07-02.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/views/variants/value_list.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/controllers/variants.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/controllers/inventories.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/controllers/products.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/models/inventory.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/views/transactions/cof.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/controllers/login.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/views/sales/index.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/views/inventories/critical.php",
-		"/D/Code/asolutions-supplychain/system/core/Input.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/logs/log-2015-06-25.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/helpers/my_custom_helper.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/views/purchase_orders/print.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/logs/log-2015-07-01.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/controllers/purchase_orders.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/views/purchase_orders/create.php",
-		"/D/Code/asolutions-supplychain/_webapps/_cms/models/cdn.php"
+		"/C/Users/lance/Google Drive/_Logins.txt",
+		"/E/Ruby/mackenziechild/mc-02-blog/config/environments/development.rb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/models/comment.rb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/models/post.rb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/models/user.rb",
+		"/E/Ruby/mackenziechild/mc-02-blog/config/routes.rb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/controllers/comments_controller.rb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/views/comments/_comment.html.erb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/views/posts/show.html.erb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/views/comments/_form.html.erb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/controllers/posts_controller.rb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/views/layouts/application.html.erb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/controllers/application_controller.rb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/views/devise/sessions/new.html.erb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/views/devise/registrations/new.html.erb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/views/posts/index.html.erb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/views/posts/new.html.erb",
+		"/E/Ruby/mackenziechild/mc-02-blog/Gemfile",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/views/posts/edit.html.erb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/views/posts/_form.html.erb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/assets/stylesheets/application.css.scss",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/assets/stylesheets/normalize.css.scss",
+		"/E/Ruby/mackenziechild/mc-02-blog/db/migrate/20150730104309_create_posts.rb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/assets/stylesheets/_normalize.css.scss",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/controllers/about_controller.rb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/views/about/index.html.erb",
+		"/E/Ruby/mackenziechild/mc-02-blog/config/environment.rb",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/assets/stylesheets/normalize.scss.css",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/assets/stylesheets/application.scss.css",
+		"/E/Ruby/mackenziechild/mc-02-blog/app/assets/stylesheets/application.scss",
+		"/E/Ruby/mackenziechild/mc-02-blog/.gitignore",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/layouts/application.html.erb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/links/index.html.erb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/controllers/application_controller.rb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/devise/registrations/edit.html.erb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/devise/sessions/new.html.erb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/devise/registrations/new.html.erb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/models/comment.rb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/controllers/links_controller.rb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/controllers/comments_controller.rb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/links/show.html.erb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/assets/stylesheets/scaffolds.scss",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/comments/_comment.html.erb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/config/application.rb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/comments/new.html.erb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/comments/_form.html.erb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/config/routes.rb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/comments/_comment_form.html.erb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/links/_form.html.erb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/links/new.html.erb",
+		"/C/Users/lance/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/db/migrate/20150724045645_create_comments.rb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/models/link.rb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/models/user.rb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/Gemfile",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/comments/show.html.erb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/assets/stylesheets/application.css.scss",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/assets/javascripts/application.js",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/config/environments/development.rb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/links/edit.html.erb",
+		"/E/Ruby/mackenziechild/mc-01-reddit-clone/app/views/links/show.json.jbuilder",
+		"/E/Ruby/rails422/app/views/layouts/application.html.erb",
+		"/E/Ruby/rails422/app/models/post.rb",
+		"/E/Ruby/rails422/db/migrate/20150708140450_add_attachment_main_image_to_posts.rb",
+		"/E/Ruby/rails422/app/views/posts/new.html.erb",
+		"/E/Ruby/rails422/app/views/posts/_form.html.erb",
+		"/E/Ruby/rails422/app/controllers/posts_controller.rb",
+		"/E/Ruby/rails422/config/environments/development.rb",
+		"/E/Ruby/rails422/app/views/posts/show.html.erb",
+		"/E/Ruby/rails422/Gemfile",
+		"/E/Ruby/rails422/.gitignore",
+		"/E/xampp568/htdocs/black/models/html5_graph.php",
+		"/C/Users/lance/Desktop/canvasjs-1.6.2/sample - nominal.html",
+		"/E/xampp568/htdocs/black/views/Research/home4.php",
+		"/E/xampp568/htdocs/black/models/Research/home4.php",
+		"/E/xampp568/htdocs/black/controller/utilities/common.php",
+		"/E/xampp568/htdocs/black/mainbackend/houseprice2_panel.php",
+		"/E/xampp568/htdocs/black/mainbackend/sql.php",
+		"/E/xampp568/htdocs/black/templates/country_pages_template.php",
+		"/E/xampp568/htdocs/black/templates/main_page_template.php",
+		"/E/xampp568/htdocs/black/templates/profile_pages_template.php",
+		"/E/xampp568/htdocs/black/templates/profile_template.php",
+		"/E/xampp568/htdocs/black/templates/rsch_continent.php",
+		"/E/xampp568/htdocs/black/templates/rsch_countryGuide.php",
+		"/E/xampp568/htdocs/black/templates/rsch_home.php",
+		"/E/xampp568/htdocs/black/templates/rsch_invAnalysis.php",
+		"/E/xampp568/htdocs/black/templates/template.php",
+		"/E/xampp568/htdocs/black/backend/sql.php",
+		"/E/xampp/htdocs/black/mainbackend/sql.php",
+		"/E/xampp/htdocs/black/mainbackend/houseprice2_panel.php",
+		"/C/Users/lance/Desktop/canvasjs-1.6.2/sample.html",
+		"/C/Users/lance/.screenrc",
+		"/C/Users/lance/.profile",
+		"/C/Users/lance/.bash_history",
+		"/E/HashiCorp/Vagrant/embedded/config.yml",
+		"/C/Program Files/Git/etc/profile",
+		"/C/DevKitRuby216/config.yml",
+		"/C/Devkit/config.yml",
+		"/E/xampp/htdocs/black/controller/UserInterfaceClass.php",
+		"/C/Users/lance/Desktop/Chart.js-master/Chart.js-master/samples/bar.html",
+		"/E/xampp/htdocs/black/mainbackend/houseprice_panel.php",
+		"/E/xampp/htdocs/black/views/Main/unsubscribe-campaign.php",
+		"/E/xampp/htdocs/black/views/Main/unsubscribe-from-newsletter.php",
+		"/E/xampp/htdocs/black/views/Main/unsubscribe.php",
+		"/E/xampp/htdocs/black/template/css/style.css",
+		"/E/xampp/htdocs/black/template/css/rsch_style.css",
+		"/E/xampp/htdocs/black/mainbackend/housepricew_panel.php",
+		"/E/xampp/htdocs/black/views/hiring-philippine-economists.php",
+		"/E/xampp/htdocs/black/templates/profile_template.php",
+		"/E/xampp/htdocs/black/views/Research/home4.php",
+		"/E/xampp/htdocs/black/template/css/homemerge.css",
+		"/E/xampp/htdocs/black/jslib/common.js",
+		"/E/xampp/htdocs/black/models/User/signup.php",
+		"/E/xampp/htdocs/black/controller/ResearchInterfaceClass.php",
+		"/C/Users/lance/Desktop/python/week8-2.py",
+		"/C/Users/lance/Desktop/python/week8.py",
+		"/E/xampp/htdocs/black/template/css/rsch_country_data.css",
+		"/E/xampp/htdocs/black/template/css/main_profile2.css",
+		"/E/xampp/htdocs/black/templates/rsch_countryGuide.php",
+		"/E/xampp/htdocs/black/.htaccess",
+		"/E/xampp/htdocs/black/views/Main/news2.php",
+		"/E/xampp/htdocs/black/models/Main/news2.php",
+		"/E/xampp/htdocs/black/models/Research/CountryData/country_data.php",
+		"/E/xampp/htdocs/black/models/Main/articles.php",
+		"/E/xampp/htdocs/black/conf/modules.ini",
+		"/E/xampp/htdocs/black/thanks/signed.php",
+		"/E/xampp/htdocs/black/thanks/thanks.php",
+		"/E/xampp/htdocs/black/templates/rsch_invAnalysis.php"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
 		"height": 90.0,
 		"where_history":
 		[
-			"D:\\rails-dev-box\\devise\\test",
-			"D:\\rails-dev-box\\devise",
-			"D:\\rails-dev-box\\devise\\app",
-			"D:\\rails-dev-box\\devise\\app\\views",
-			"D:\\xampp\\htdocs\\asolutions-api\\_webapps",
-			"D:\\xampp\\htdocs\\asolutions-api\\_webapps\\controllers",
-			"D:\\xampp\\htdocs\\asolutions-api\\_webapps",
-			"D:\\xampp\\htdocs\\asolutions-api\\_webapps\\models",
-			"D:\\xampp\\htdocs\\asolutions-api\\_webapps",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\views",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\views",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
-			"D:\\xampp\\htdocs\\asolutions-api\\_webapps\\controllers",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
-			"D:\\Code\\asolutions-supplychain\\_webapps",
-			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\app",
-			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\backend",
-			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\public_html\\email",
-			"D:\\xampp\\htdocs\\madison\\app",
-			"D:\\xampp\\htdocs\\www.alveo.com\\app",
-			"D:\\xampp\\htdocs\\www.alorica.local\\app",
-			"D:\\Code\\ucpbrewards\\app",
-			"D:\\xampp\\htdocs\\sedarewards-new\\app",
-			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\backend",
-			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\app",
-			"D:\\xampp\\htdocs\\www.ayalalandpremier.local",
-			"D:\\xampp\\htdocs\\asolutions-api\\_webapps\\views\\fullybooked",
-			"D:\\xampp\\htdocs\\fullybooked\\application",
-			"D:\\xampp\\htdocs\\fullybooked\\application\\models",
-			"D:\\xampp\\htdocs\\fullybooked\\application\\controllers",
-			"D:\\xampp\\htdocs\\asolutions-api\\_webapps\\models",
-			"D:\\xampp\\htdocs\\asolutions-api\\_webapps\\controllers",
-			"D:\\xampp\\htdocs\\fullybooked",
-			"D:\\xampp\\htdocs\\phpmyadmin449",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\views",
-			"D:\\xampp\\htdocs\\www.alorica.local\\app",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\views",
-			"D:\\xampp\\htdocs\\www.alveo.com\\backend",
-			"D:\\xampp\\htdocs\\asolutions-api\\_webapps",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\controllers",
-			"D:\\xampp\\htdocs\\madison\\app",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
-			"D:\\xampp\\htdocs\\madison\\app\\controllers",
-			"D:\\xampp\\htdocs\\sedarewards-new\\backend",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\controllers",
-			"D:\\xampp\\htdocs\\asolutions-api\\_webapps\\controllers",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\controllers",
-			"D:\\Code\\Codesignate API\\api\\api",
-			"D:\\Code\\ucpbrewards\\app\\views",
-			"D:\\Code\\ucpbrewards\\app",
-			"D:\\Code\\ucpbrewards\\backend",
-			"D:\\Code\\ucpbrewards\\backend\\controllers",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
-			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\app\\controllers",
-			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\app",
-			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\app\\views",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\controllers",
-			"D:\\xampp\\htdocs\\popshop\\_webapps\\_cms\\views",
-			"D:\\Code\\ucpbrewards\\app\\controllers",
-			"D:\\Code\\ucpbrewards\\public_html\\email\\public",
-			"D:\\xampp\\htdocs\\popshop\\_webapps\\_frontend\\views",
-			"D:\\Code\\ucpbrewards\\app\\views",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\models",
-			"D:\\Code\\ucpbrewards\\public_html\\email\\public",
-			"D:\\Code\\ucpbrewards\\app",
-			"D:\\Code\\asolutions-supplychain\\assets",
-			"D:\\Code\\availat.generic",
-			"D:\\Code\\availat.generic\\app",
-			"D:\\Code\\availat.generic",
-			"D:\\Code\\laravel5\\bootstrap",
-			"D:\\Code\\laravel5\\app",
-			"D:\\Code\\www.alorica.local",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
-			"D:\\Code\\www.alorica.local\\bootstrap",
-			"D:\\xampp\\htdocs\\madison\\app",
-			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\app",
-			"D:\\xampp\\htdocs\\www.alveo.com\\public_html",
-			"D:\\xampp\\htdocs\\www.alveo.com\\app",
-			"D:\\Code\\www.alorica.local\\app",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\views\\sku",
-			"D:\\xampp\\htdocs\\tabaqueria\\production",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
-			"D:\\Code\\asolutions-supplychain\\_webapps",
-			"D:\\xampp\\htdocs\\adeals\\site-cont",
-			"C:\\Users\\Lance Vincent\\Desktop\\New folder",
-			"D:\\xampp\\htdocs\\adeals\\site-cont",
-			"D:\\xampp\\htdocs\\adeals\\site-cont\\views",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms",
-			"D:\\xampp\\htdocs\\adeals\\site-cont",
-			"D:\\xampp\\htdocs\\madison\\app",
-			"D:\\xampp\\htdocs\\madison",
-			"D:\\xampp\\htdocs\\madison\\app",
-			"D:\\xampp\\htdocs\\madison\\app\\views",
-			"D:\\xampp\\htdocs\\madison\\public_html",
-			"D:\\xampp\\htdocs\\madison\\app",
-			"D:\\xampp\\htdocs\\www.alorica.local\\app",
-			"D:\\xampp\\htdocs\\adeals",
-			"D:\\xampp\\htdocs\\adeals\\site-cont",
-			"D:\\xampp\\htdocs\\adeals\\email",
-			"D:\\xampp\\htdocs\\adeals\\site-cont",
-			"D:\\xampp\\htdocs\\madison\\app\\views",
-			"D:\\Code\\asolutions-supplychain\\_webapps\\_cms\\views",
-			"C:\\Users\\Lance Vincent\\Desktop\\New",
-			"D:\\xampp\\htdocs\\www.ayalalandpremier.local\\backend\\views",
-			"D:\\xampp\\htdocs\\www.alorica.local\\backend",
-			"D:\\xampp\\htdocs\\www.alorica.local\\app",
-			"D:\\xampp\\htdocs\\asolutions-supplychain\\_webapps\\_cms",
-			"D:\\xampp\\htdocs\\aweddings\\_frontend2.0\\views",
-			"D:\\xampp\\htdocs\\aweddings\\_frontend2.0",
-			"D:\\xampp\\htdocs\\ucpbconsumerloans\\app",
-			"D:\\xampp\\htdocs\\asolutions-supplychain\\_webapps\\_cms\\views",
-			"D:\\xampp\\htdocs\\asolutions-supplychain\\_webapps\\_cms\\controllers",
-			"D:\\xampp\\htdocs\\asolutions-supplychain\\_webapps\\_cms\\models",
-			"D:\\xampp\\htdocs\\asolutions-supplychain\\_webapps\\_cms\\views\\microsites",
-			"D:\\xampp\\htdocs\\asolutions-supplychain\\_webapps\\_cms\\views\\merchants",
-			"D:\\xampp\\htdocs\\madison\\public_html\\cms\\css",
-			"D:\\xampp\\htdocs\\madison\\vendor",
-			"D:\\xampp\\htdocs\\madison\\app",
-			"D:\\xampp\\htdocs\\asolutions-supplychain\\_webapps\\_cms\\controllers",
-			"D:\\xampp\\htdocs\\asolutions-supplychain\\_webapps\\_cms\\views\\merchants",
-			"D:\\xampp\\htdocs\\asolutions-supplychain\\_webapps\\_cms\\controllers",
-			"D:\\xampp\\htdocs\\ucpbconsumerloans\\public_html\\email\\public",
-			"D:\\xampp\\htdocs\\ucpbconsumerloans"
+			"E:\\Ruby\\mackenziechild\\mc-02-blog\\app\\views",
+			"E:\\Ruby\\mackenziechild\\mc-01-reddit-clone\\app\\views",
+			"E:\\Ruby\\mackenziechild\\mc-01-reddit-clone\\app\\views\\devise",
+			"E:\\xampp568\\htdocs\\black\\controller",
+			"E:\\xampp568\\htdocs\\black\\conf",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\mainbackend",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\template",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\template",
+			"E:\\xampp\\htdocs\\black\\conf",
+			"E:\\xampp\\htdocs\\black\\jslib",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\jslib",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\template",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\conf",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\models",
+			"C:\\Users\\lance\\Desktop\\Android Development\\Week 7\\Lecture Files",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\mainbackend",
+			"C:\\Users\\lance\\Desktop\\Android Development\\Week 5\\SRT",
+			"E:\\xampp\\htdocs\\black\\mainbackend",
+			"E:\\xampp\\htdocs\\black\\backend",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\mainbackend",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\mainbackend",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\crons",
+			"E:\\xampp\\htdocs\\black\\models",
+			"C:\\Users\\lance\\Desktop\\Playful",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\template",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\template\\assets\\house-prices-html",
+			"E:\\xampp\\htdocs\\black\\template",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\template",
+			"E:\\xampp\\htdocs\\black\\views",
+			"C:\\Users\\lance\\Desktop\\Android Development\\Week 3\\SRT",
+			"C:\\Users\\lance\\Desktop\\Week 1\\SRT",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\jslib",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\mainbackend",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\conf",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\template",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\mainbackend",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\mainbackend",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\conf",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\models",
+			"E:\\xampp\\htdocs\\black\\views",
+			"E:\\xampp\\htdocs\\black\\controller",
+			"E:\\xampp\\htdocs\\black\\templates",
+			"E:\\xampp\\htdocs\\black\\template",
+			"E:\\xampp\\htdocs\\black\\mainbackend"
 		]
 	},
 	"find_state":
@@ -895,134 +537,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"mackenziechild",
-			"MackenzieChild",
-			"mackenziechild",
-			" ,",
-			" ,",
-			" ,",
+			"name",
+			"page_wrapper",
+			":name",
+			"<% flash.each do |name, msg| %>\n			<%= content_tag(:div, msg, class: \"alert\") %>\n		<% end %>",
+			"<%= content_tag(:div, msg, class: \"alert\") %>",
+			"<% flash.each do |name, msg| %>",
+			"<% flash.each do |name, msg| %>\n			<%= content_tag(:div, msg, class: \"alert\") %>\n		<% end %>",
+			"<% flash.each do |name, msg| %>\n			<%= content_tag(:div, msg, class: 'alert') %>\n		<% end %>",
+			"<% flash.each do |name, msg| %>",
+			"<% flash.each do |name, msg| %>\n			<%= content_tag(:div, msg, class: \"alert\") %>\n		<% end %>",
 			"title",
-			"Overnight Deluxe NUVALI 	Seda Nuvali",
-			"Overnight Suite BGC 	Seda BGC",
-			"Overnight Deluxe Centrio 	Seda Centrio",
-			"Overnight Deluxe BGC 	Seda BGC",
-			"Overnight Club BGC 	Seda BGC",
-			"Overnight Deluxe Davao 	Seda Davao",
-			"Overnight Deluxe Centrio 	Seda Centrio\n",
-			"Overnight Deluxe Centrio 	Seda Centrio",
-			"Overnight Premier Centrio 	Seda Centrio",
-			"div>",
-			"lass=\"field\"",
-			"class=\"field\"",
-			"field",
-			"class=\"field\"",
-			"field",
-			"class=\"field",
-			"seda",
-			"taba",
-			"alert",
-			"test_uses_the_custom_controller_with_the_custom_controller_view",
-			"Log In",
-			"Log in",
-			"Log In",
-			"DoubleAuthenticationRedirectTest",
-			"log_in",
-			"log in",
-			"log_out",
-			"sign_out",
-			"sign out",
-			"sign up",
-			"sign_up",
-			"log_in",
-			"log in",
-			"sign_in",
-			"log_in",
-			"log_Out",
-			"Sign_Out",
-			"Sign Out",
-			"Sign In",
-			"Log In",
-			"Logout",
-			"Log Out",
-			"Log In",
-			"\"field\"",
-			"field",
-			"class=\"field\"",
-			"ayalaland",
-			"godaddy",
-			"ruby",
-			"transaction_number",
-			"removed_titles",
-			"transaction_number",
-			"message",
-			"log",
-			"transaction",
-			"final",
-			"total",
-			"_handle_pending",
-			"constructUrl",
-			"apiCall",
-			"update_transaction",
-			"constructUrl",
-			"	private function constructUrl($method = 'connect', $data = array())\n",
-			"constructUrl",
-			"apiCall",
-			"update_transaction",
-			"actions_list",
-			"_handle_pending",
-			"sendUpdatedEmailAfterRemovingItems",
-			"fullybookedUpdateEmail",
-			"support@a",
-			"support@a-",
-			"supporta-s",
-			"support",
-			"log_",
-			"acquirer_bank",
-			"production.ERROR: exception 'Symfony\\Component\\HttpKernel\\Exception\\NotFoundHttpException' in /home/ayalalandpremier/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php:148\nStack trace:\n#0 /home/ayalalandpremier/vendor/laravel/framework/src/Illuminate/Routing/Router.php(1054): Illuminate\\Routing\\RouteCollection->match(Object(Illuminate\\Http\\Request))\n#1 /home/ayalalandpremier/vendor/laravel/framework/src/Illuminate/Routing/Router.php(1022): Illuminate\\Routing\\Router->findRoute(Object(Illuminate\\Http\\Request))\n#2 /home/ayalalandpremier/vendor/laravel/framework/src/Illuminate/Routing/Router.php(1001): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))\n#3 /home/ayalalandpremier/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(775): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))\n#4 /home/ayalalandpremier/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(745): Illuminate\\Foundation\\Application->dispatch(Object(Illuminate\\Http\\Request))\n#5 /home/ayalalandpremier/vendor/laravel/framework/src/Illuminate/Session/Middleware.php(72): Illuminate\\Foundation\\Application->handle(Object(Illuminate\\Http\\Request), 1, true)\n#6 /home/ayalalandpremier/vendor/laravel/framework/src/Illuminate/Cookie/Queue.php(47): Illuminate\\Session\\Middleware->handle(Object(Illuminate\\Http\\Request), 1, true)\n#7 /home/ayalalandpremier/vendor/laravel/framework/src/Illuminate/Cookie/Guard.php(51): Illuminate\\Cookie\\Queue->handle(Object(Illuminate\\Http\\Request), 1, true)\n#8 /home/ayalalandpremier/vendor/stack/builder/src/Stack/StackedHttpKernel.php(23): Illuminate\\Cookie\\Guard->handle(Object(Illuminate\\Http\\Request), 1, true)\n#9 /home/ayalalandpremier/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(641): Stack\\StackedHttpKernel->handle(Object(Illuminate\\Http\\Request))\n#10 /home/ayalalandpremier/public_html/index.php(50): Illuminate\\Foundation\\Application->run()\n#11 {main} [] []",
-			"helper",
-			"securepay.php 350",
-			" equal to our expected 102.25",
-			"4387.39 is not equal to our expected 102.25",
-			"total_price of 4384.62 is not equal to our expected 102.25",
-			"No affected rows during update sequence",
-			"callback_url_fullybooked",
-			"payment_type",
-			"checkCartItems",
-			"not allowed",
-			"status: success",
-			"4666.95 is not equal to our expected 109.3",
-			"controllers/securepay.php 350",
-			"callback_url_fullybooked",
-			"allowed for sale",
-			"payment_type",
-			"during update sequence for",
-			" callback_url_fullybooked",
-			"status: success",
-			"Severity: Notice",
-			"payment_type",
-			"Severity: ",
-			"get_transaction_by_reference_number",
-			"_manageRedirectURL",
-			"get_transaction_by_reference_number",
-			"_manageRedirectURL",
-			" payment_type",
-			"_manageRedirectURL",
-			"POST PROCESS.GET",
-			"status: ",
-			"manageCallback",
-			"callback_url_fullybooked",
-			"is using the preset",
-			"is using the preset payment_type",
-			"api",
-			"value_lis",
-			"value_lisy",
-			"edit'",
-			"can_edit",
-			"can_add",
-			"can_",
-			"critical",
-			"Input.php 351",
-			"/home/schain/public_html/system/core/Input.php 351"
+			"notice",
+			"email",
+			"<p id=\"notice\"><%= notice %></p>",
+			")\" ",
+			"title",
+			", ",
+			"10",
+			"69",
+			"data",
+			"graphdata1",
+			", ",
+			"69",
+			"chart",
+			"data['graphdata1']",
+			"graphdata2",
+			"graphdata1",
+			"version2",
+			"version",
+			"createHPGroup",
+			"HPWidget(",
+			"HP_DATA",
+			"print_r",
+			"knots",
+			"09-",
+			"06-",
+			"03-",
+			"00-",
+			"{ x: new Date(",
+			"title3",
+			"title1",
+			"09",
+			"06",
+			"03",
+			"00",
+			"\n",
+			"{ x: new Date(",
+			"graphdata1",
+			"update_houseprice",
+			"	",
+			"\n",
+			"0),",
+			"	",
+			"\n",
+			"	",
+			"\n",
+			"},",
+			"Q",
+			"Q1 ",
+			"0)",
+			"primary",
+			"5",
+			"polldaddy_helpus",
+			"poll",
+			"ASIDO_GD_JPEG_QUALITY",
+			"<div id=\"hiring\"",
+			"ASIDO",
+			"Asido",
+			"asido",
+			"ASIDO",
+			"Asido",
+			"asido",
+			"ASIDO",
+			"Asido",
+			"asido",
+			"ASIDO",
+			"Asido",
+			"asido",
+			"ASIDO",
+			"Asido",
+			"asido",
+			"<form",
+			"update_housepricew",
+			"template/assets/graph_images/",
+			"paywall_login",
+			"showme(",
+			"paywall_login\" onclick=\"showme",
+			"Fortnightly updates from",
+			"profile",
+			"nlsubscription-tmc",
+			"loginswitch",
+			"loginfrm",
+			"My Company",
+			"My company",
+			"_polldaddy.push( {\n    type: 'slider',",
+			"<script type=\\\"text/javascript\\\">\nvar _polldaddy = [] || _polldaddy;",
+			"<script type=\\\"text/javascript\\\">\nvar _polldaddy = [] || _polldaddy;\n\n_polldaddy.push( {\n    type: 'slider',\n    title: 'Take Our Survey!',",
+			"\"",
+			"poll",
+			"SPWidget_new",
+			"Connect to professional advice abroad",
+			"ShowSignupRightWidget",
+			"news-",
+			"aboutme",
+			"<p class=\"aboutme\">",
+			"My company",
+			"ShowSignupRightWidget",
+			"boxtopsignupnl",
+			"widgetia2",
+			"\"",
+			"polldaddy_helpus",
+			"poll",
+			"pd-embed",
+			"signupform",
+			"Email:",
+			"echo",
+			"The email provided is already in our database. Please check your email.",
+			"auth_box",
+			"\n\n}",
+			"		",
+			": ",
+			"authbox(",
+			"auth_box",
+			"broc",
+			"\\\"",
+			"\"",
+			"brochure_black_strip",
+			"guillotine"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1030,9 +672,9 @@
 		"regex": false,
 		"replace_history":
 		[
-			"		"
+			"% change over a quarter (QoQ)"
 		],
-		"reverse": false,
+		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -1041,48 +683,18 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/Users/Lance Vincent/Google Drive/_Logins.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9986,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1594,
-								1594
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 623.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 21.0
+		"height": 23.0
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 34.0
 	},
 	"layout":
 	{
@@ -1107,19 +719,19 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
-	},
-	"output.git":
-	{
-		"height": 221.0
 	},
 	"pinned_build_system": "",
 	"project": "mc-03-recipe-box.sublime-project",
 	"replace":
 	{
-		"height": 38.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1129,51 +741,155 @@
 		"selected_items":
 		[
 			[
-				"route",
-				"config\\routes.rb"
-			],
-			[
-				"aboucon",
-				"app\\controllers\\about_controller.rb"
-			],
-			[
-				"commentcontr",
-				"app\\controllers\\comments_controller.rb"
-			],
-			[
-				"pofor",
-				"app\\views\\posts\\_form.html.erb"
-			],
-			[
-				"ponew",
-				"app\\views\\posts\\new.html.erb"
-			],
-			[
-				"show",
+				"postsho",
 				"app\\views\\posts\\show.html.erb"
 			],
 			[
-				"posind",
-				"app\\views\\posts\\index.html.erb"
+				"routes",
+				"config\\routes.rb"
+			],
+			[
+				"renew",
+				"app\\views\\devise\\registrations\\new.html.erb"
+			],
+			[
+				"sessnew",
+				"app\\views\\devise\\sessions\\new.html.erb"
+			],
+			[
+				"laapp",
+				"app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"conpos",
+				"app\\controllers\\posts_controller.rb"
+			],
+			[
+				"envdeve",
+				"config\\environments\\development.rb"
 			],
 			[
 				"gem",
 				"Gemfile"
 			],
 			[
-				"posshow",
+				"mopos",
+				"app\\models\\post.rb"
+			],
+			[
+				"poscon",
+				"app\\controllers\\posts_controller.rb"
+			],
+			[
+				"ponew",
+				"app\\views\\posts\\new.html.erb"
+			],
+			[
+				"applicahtml",
+				"app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"posind",
+				"app\\views\\posts\\index.html.erb"
+			],
+			[
+				"regnew",
+				"app\\views\\devise\\registrations\\new.html.erb"
+			],
+			[
+				"_comment",
+				"app\\views\\comments\\_comment.html.erb"
+			],
+			[
+				"possho",
 				"app\\views\\posts\\show.html.erb"
 			],
 			[
-				"vwpostin",
-				"app\\views\\posts\\index.html.erb"
+				"postcontr",
+				"app\\controllers\\posts_controller.rb"
+			],
+			[
+				"sessionnew",
+				"app\\views\\devise\\sessions\\new.html.erb"
+			],
+			[
+				"develop",
+				"config\\environments\\development.rb"
+			],
+			[
+				"environ",
+				"config\\environment.rb"
+			],
+			[
+				"conabo",
+				"app\\controllers\\about_controller.rb"
+			],
+			[
+				"route",
+				"config\\routes.rb"
 			],
 			[
 				"appl",
 				"app\\views\\layouts\\application.html.erb"
 			],
 			[
-				"moduser",
+				"modcomm",
+				"app\\models\\comment.rb"
+			],
+			[
+				"_com",
+				"app\\views\\comments\\_comment.html.erb"
+			],
+			[
+				"poshow",
+				"app\\views\\posts\\show.html.erb"
+			],
+			[
+				"vwposnew",
+				"app\\views\\posts\\new.html.erb"
+			],
+			[
+				"modpos",
+				"app\\models\\post.rb"
+			],
+			[
+				"applicacs",
+				"app\\assets\\stylesheets\\application.css"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"reg",
+				"app\\views\\devise\\registrations\\edit.html.erb"
+			],
+			[
+				"conapp",
+				"app\\controllers\\application_controller.rb"
+			],
+			[
+				"conappl",
+				"config\\application.rb"
+			],
+			[
+				"modcomment",
+				"app\\models\\comment.rb"
+			],
+			[
+				"migcomm",
+				"db\\migrate\\20150724045645_create_comments.rb"
+			],
+			[
+				"linksho",
+				"app\\views\\links\\show.html.erb"
+			],
+			[
+				"contro",
+				"app\\controllers\\comments_controller.rb"
+			],
+			[
+				"moduse",
 				"app\\models\\user.rb"
 			],
 			[
@@ -1181,464 +897,84 @@
 				"app\\models\\link.rb"
 			],
 			[
-				"modcomme",
-				"app\\models\\comment.rb"
-			],
-			[
-				"linksho",
-				"app\\views\\links\\show.html.erb"
-			],
-			[
-				"linkind",
-				"app\\views\\links\\index.html.erb"
-			],
-			[
-				"lincont",
+				"linkcont",
 				"app\\controllers\\links_controller.rb"
-			],
-			[
-				"vwlinkedi",
-				"app\\views\\links\\edit.html.erb"
-			],
-			[
-				"vslin_fo",
-				"app\\views\\links\\_form.html.erb"
-			],
-			[
-				"vwlinshow",
-				"app\\views\\links\\show.html.erb"
-			],
-			[
-				"vwlink",
-				"app\\views\\links\\index.html.erb"
 			],
 			[
 				"apperb",
 				"app\\views\\layouts\\application.html.erb"
 			],
 			[
-				"applicaerb",
-				"app\\views\\layouts\\application.html.erb"
+				"commentcontr",
+				"app\\controllers\\comments_controller.rb"
 			],
 			[
-				"dbmiuserlink",
-				"db\\migrate\\20150715110816_add_user_id_on_links.rb"
+				"vwsshow",
+				"app\\views\\links\\show.html.erb"
 			],
 			[
-				"modlin",
-				"app\\models\\link.rb"
-			],
-			[
-				"modlinks",
-				"test\\models\\link_test.rb"
-			],
-			[
-				"user",
-				"app\\models\\user.rb"
-			],
-			[
-				"dbmiguser",
-				"db\\migrate\\20150715105223_devise_create_users.rb"
-			],
-			[
-				"rout",
-				"config\\routes.rb"
-			],
-			[
-				"condev",
-				"config\\environments\\development.rb"
-			],
-			[
-				"linksind",
+				"vwsind",
 				"app\\views\\links\\index.html.erb"
 			],
 			[
-				"linksc",
+				"controlink",
 				"app\\controllers\\links_controller.rb"
 			],
 			[
-				"routes",
-				"config\\routes.rb"
-			],
-			[
-				"modus",
+				"moduser",
 				"app\\models\\user.rb"
 			],
 			[
-				"devssessnew",
-				"app\\views\\devise\\sessions\\new.html.erb"
+				"confdev",
+				"config\\environments\\development.rb"
 			],
 			[
-				"devsnew",
-				"app\\views\\devise\\sessions\\new.html.erb"
+				"vsposshow",
+				"app\\views\\posts\\show.html.erb"
 			],
 			[
-				"_form",
-				"app\\views\\links\\_form.html.erb"
+				"devrb",
+				"config\\environments\\development.rb"
 			],
 			[
-				"vwtranedit",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
+				"contpos",
+				"app\\controllers\\posts_controller.rb"
 			],
 			[
-				"modtra",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\transaction.php"
+				"vwsposnew",
+				"app\\views\\posts\\new.html.erb"
 			],
 			[
-				"channel",
-				"asolutions-supplychain\\_webapps\\_cms\\libraries\\channel_api.php"
+				"migra",
+				"db\\migrate\\20150708140450_add_attachment_main_image_to_posts.rb"
 			],
 			[
-				"07-06",
-				"asolutions-supplychain\\_webapps\\_cms\\logs\\log-2015-07-06.php"
+				"modpost",
+				"app\\models\\post.rb"
 			],
 			[
-				"tra",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\transaction.php"
+				"house2",
+				"mainbackend/houseprice2_panel.php"
 			],
 			[
-				"tran",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\transactions.php"
+				"manbsql.php",
+				"mainbackend/sql.php"
 			],
 			[
-				"sku_list",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\merchants\\sku_list.php"
+				"sql.php",
+				"backend/sql.php"
 			],
 			[
-				"variant",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\variants.php"
+				"mainhousepr2",
+				"mainbackend/houseprice2_panel.php"
 			],
 			[
-				"value_list",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\variants\\value_list.php"
+				"common",
+				"black/jslib/common.js"
 			],
 			[
-				"merskulis",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\merchants\\sku_list.php"
-			],
-			[
-				"inventory",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\inventory.php"
-			],
-			[
-				"inventories",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\inventories.php"
-			],
-			[
-				"critical",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\inventories\\critical.php"
-			],
-			[
-				"vwstrcof",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\cof.php"
-			],
-			[
-				"poprint",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\purchase_orders\\print.php"
-			],
-			[
-				"mycus",
-				"asolutions-supplychain\\_webapps\\_cms\\helpers\\my_custom_helper.php"
-			],
-			[
-				"cnd",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\cdn.php"
-			],
-			[
-				"purc",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\purchase_orders.php"
-			],
-			[
-				"porcre",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\purchase_orders\\create.php"
-			],
-			[
-				"core/input",
-				"asolutions-supplychain\\system\\core\\Input.php"
-			],
-			[
-				"traedit",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
-			],
-			[
-				"emailhel",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\emailhelper.php"
-			],
-			[
-				"motra",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\transaction.php"
-			],
-			[
-				"transac",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\transactions.php"
-			],
-			[
-				"supplychian.php",
-				"asolutions-api\\_webapps\\controllers\\supplychain.php"
-			],
-			[
-				"channelapi",
-				"asolutions-supplychain\\_webapps\\_cms\\libraries\\channel_api.php"
-			],
-			[
-				"vwscof",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\cof.php"
-			],
-			[
-				"conttransa",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\transactions.php"
-			],
-			[
-				"mycustom",
-				"asolutions-supplychain\\_webapps\\_cms\\helpers\\my_custom_helper.php"
-			],
-			[
-				"transedi",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
-			],
-			[
-				"vws/pur",
-				"_webapps\\_cms\\views\\purchase_orders\\create.php"
-			],
-			[
-				"purchase",
-				"_webapps\\_cms\\controllers\\purchase_orders.php"
-			],
-			[
-				"sale.php",
-				"_webapps\\_cms\\models\\sale.php"
-			],
-			[
-				"sales",
-				"_webapps\\_cms\\controllers\\sales.php"
-			],
-			[
-				"main.css",
-				"assets\\cms\\css\\main.css"
-			],
-			[
-				"modegc",
-				"site-cont\\models\\mod_tattoo_rewards_egc.php"
-			],
-			[
-				"alovwfilte",
-				"microsite\\aloricarewards\\views\\filters.php"
-			],
-			[
-				"modtattegc",
-				"site-cont\\models\\mod_tattoo_rewards_egc.php"
-			],
-			[
-				"tattooegc",
-				"site-cont\\controllers\\tattoo_rewards_egc.php"
-			],
-			[
-				"suppmodpo.pp",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\po.php"
-			],
-			[
-				"securepay",
-				"asolutions-api\\_webapps\\controllers\\securepay.php"
-			],
-			[
-				"api/mod/payment",
-				"asolutions-api\\_webapps\\models\\payment.php"
-			],
-			[
-				"supmodepayment",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\addon_payment.php"
-			],
-			[
-				"apimodpayment",
-				"asolutions-api\\_webapps\\models\\payment.php"
-			],
-			[
-				"suppvwstrnsedit",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
-			],
-			[
-				"supvwedit.php",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\accounts\\edit.php"
-			],
-			[
-				"modpayment.php",
-				"asolutions-api\\_webapps\\models\\payment.php"
-			],
-			[
-				"payment.php",
-				"adeals\\site-cont\\controllers\\payment.php"
-			],
-			[
-				"suppvwtrnsedit",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
-			],
-			[
-				"suppmodtra",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\transaction.php"
-			],
-			[
-				"suppmodtran",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\transaction.php"
-			],
-			[
-				"sppconttrans",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\transactions.php"
-			],
-			[
-				"supvwpobr",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\po_breakdown.php"
-			],
-			[
-				"suppvietransed",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
-			],
-			[
-				"contsupplchain",
-				"asolutions-api\\_webapps\\controllers\\supplychain.php"
-			],
-			[
-				"suppassmaincss",
-				"asolutions-supplychain\\assets\\cms\\css\\main.css"
-			],
-			[
-				"suppmodfulfill",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\mod_fulfillment.php"
-			],
-			[
-				"suppmodful",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\mod_fulfillment.php"
-			],
-			[
-				"suppcmsmain.",
-				"asolutions-supplychain\\assets\\cms\\css\\main.css"
-			],
-			[
-				"suppmodinve",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\inventory.php"
-			],
-			[
-				"mod_fulfill",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\mod_fulfillment.php"
-			],
-			[
-				"suppcontful",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\fulfillment.php"
-			],
-			[
-				"suppconrreq",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\request_for_billing.php"
-			],
-			[
-				"suppcontrfull",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\fulfillment.php"
-			],
-			[
-				"suppvwsful",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\fulfillment\\index.php"
-			],
-			[
-				"suppcontrebill",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\request_for_billing.php"
-			],
-			[
-				"supmodinen",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\inventory.php"
-			],
-			[
-				"supmodinven",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\inventory.php"
-			],
-			[
-				"suppmodpo",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\po.php"
-			],
-			[
-				"supconttransa",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\transactions.php"
-			],
-			[
-				"madisonappproducontro",
-				"madison\\app\\controllers\\ProductsController.php"
-			],
-			[
-				"suppmodmicro",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\microsite.php"
-			],
-			[
-				"supchmodmic",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\microsite.php"
-			],
-			[
-				"synhtml",
-				"adeals\\system\\index.html"
-			],
-			[
-				"supmodmicr",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\microsite.php"
-			],
-			[
-				"supcontmic",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\microsites.php"
-			],
-			[
-				"supplconttrans",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\transactions.php"
-			],
-			[
-				"suppmain.css",
-				"asolutions-supplychain\\assets\\cms\\css\\main.css"
-			],
-			[
-				"supchcontmicr",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\microsites.php"
-			],
-			[
-				"suppmodepu",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\purchase_order.php"
-			],
-			[
-				"task_helper",
-				"tasks\\spec\\helpers\\tasks_helper_spec.rb"
-			],
-			[
-				"transaction_couple_whole",
-				"aweddings\\_frontend2.0\\views\\email\\transaction_couple_whole.php"
-			],
-			[
-				"master",
-				"www.alveo.com\\app\\views\\master.blade.php"
-			],
-			[
-				"alvappmaster",
-				"www.alveo.com\\app\\views\\master.blade.php"
-			],
-			[
-				"create.php",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\purchase_orders\\create.php"
-			],
-			[
-				"po_br",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\po_breakdown.php"
-			],
-			[
-				"po.php",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\po.php"
-			],
-			[
-				"purchas_or",
-				"asolutions-supplychain\\_webapps\\_cms\\controllers\\purchase_orders.php"
-			],
-			[
-				"suplvwtranedit",
-				"asolutions-supplychain\\_webapps\\_cms\\views\\transactions\\edit.php"
-			],
-			[
-				"suplymodtran",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\transaction.php"
-			],
-			[
-				"spplmodtra",
-				"asolutions-supplychain\\_webapps\\_cms\\models\\transaction.php"
+				"main",
+				"mainbackend/widgEditor/article_files/main.css"
 			]
 		],
 		"width": 0.0
@@ -1669,7 +1005,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 293.0,
+	"side_bar_width": 271.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
