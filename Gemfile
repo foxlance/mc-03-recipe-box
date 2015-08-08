@@ -31,6 +31,7 @@ gem 'haml', '~> 4.0.6'
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'paperclip', '~> 4.3.0'
 gem 'cocoon', '~> 1.2.6'
+gem 'devise', '~> 3.5.1'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
